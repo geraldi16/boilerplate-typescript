@@ -15,4 +15,6 @@ You will see `hello world` as result of this compile.
 
 ## Running Test
 Run this command:
-```jest example.spec.ts
+```
+jest example.spec.ts
+```
